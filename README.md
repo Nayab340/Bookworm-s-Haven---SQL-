@@ -8,7 +8,10 @@ Task
 •You’ve been hired by Bookworm’s Haven to assist with their inventory management! Your quest is to design and implement a database system using SQL to help them keep track of their books, customers and order. Bookworm’s Haven has provided you with the following requirements:
 
 1. Book Inventory Management: Store information about the books. We need to store each book's title, author, genre, publication year and price.
+
+
    <img width="344" alt="image" src="https://github.com/Nayab340/Bookworm-s-Haven---SQL-/assets/142215655/ee9d5930-46a6-4da5-862e-e97b6e85129c">
+   
 
    <img width="581" alt="image" src="https://github.com/Nayab340/Bookworm-s-Haven---SQL-/assets/142215655/9b752913-bfab-410d-9331-828f74b2d95a">
 
